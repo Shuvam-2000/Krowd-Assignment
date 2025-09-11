@@ -1,0 +1,36 @@
+[
+  {"id": 1, "date": "2025-04-02", "salesRep": "Rohan Singh", "client": "Acme Corp", "product": "Alpha", "unitsSold": 3,  "revenue": 3600,  "target": 50000},
+  {"id": 2, "date": "2025-04-05", "salesRep": "Priya Sharma","client": "Brightside Ltd", "product": "Beta",  "unitsSold": 8,  "revenue": 6400,  "target": 50000},
+  {"id": 3, "date": "2025-04-12", "salesRep": "Amit Verma",  "client": "Cenvex",        "product": "Gamma", "unitsSold": 2,  "revenue": 3000,  "target": 50000},
+  {"id": 4, "date": "2025-04-18", "salesRep": "Sima Ghosh",  "client": "Deltatech",    "product": "Delta", "unitsSold": 10, "revenue": 4000,  "target": 50000},
+  {"id": 5, "date": "2025-04-22", "salesRep": "Rohan Singh", "client": "Echo Media",   "product": "Epsilon","unitsSold": 7,  "revenue": 4200,  "target": 50000},
+  {"id": 6, "date": "2025-04-28", "salesRep": "Priya Sharma","client": "Futura Pvt Ltd","product": "Alpha", "unitsSold": 4,  "revenue": 4800,  "target": 50000},
+
+  {"id": 7,  "date": "2025-05-03", "salesRep": "Amit Verma",  "client": "GreenGrocers", "product": "Beta",  "unitsSold": 12, "revenue": 9600,  "target": 60000},
+  {"id": 8,  "date": "2025-05-09", "salesRep": "Sima Ghosh",  "client": "Hema Traders", "product": "Gamma", "unitsSold": 5,  "revenue": 7500,  "target": 60000},
+  {"id": 9,  "date": "2025-05-14", "salesRep": "Rohan Singh", "client": "Indigo Imports","product": "Delta", "unitsSold": 20, "revenue": 8000,  "target": 60000},
+  {"id": 10, "date": "2025-05-19", "salesRep": "Priya Sharma","client": "Jaya Logistics","product": "Epsilon","unitsSold": 10, "revenue": 6000,  "target": 60000},
+  {"id": 11, "date": "2025-05-23", "salesRep": "Amit Verma",  "client": "Acme Corp",    "product": "Alpha", "unitsSold": 6,  "revenue": 7200,  "target": 60000},
+  {"id": 12, "date": "2025-05-29", "salesRep": "Sima Ghosh",  "client": "Brightside Ltd","product": "Beta", "unitsSold": 7,  "revenue": 5600,  "target": 60000},
+
+  {"id": 13, "date": "2025-06-02", "salesRep": "Rohan Singh", "client": "Cenvex",        "product": "Gamma", "unitsSold": 6,  "revenue": 9000,  "target": 65000},
+  {"id": 14, "date": "2025-06-10", "salesRep": "Priya Sharma","client": "Deltatech",    "product": "Delta", "unitsSold": 15, "revenue": 6000,  "target": 65000},
+  {"id": 15, "date": "2025-06-15", "salesRep": "Amit Verma",  "client": "Echo Media",   "product": "Epsilon","unitsSold": 9,  "revenue": 5400,  "target": 65000},
+  {"id": 16, "date": "2025-06-20", "salesRep": "Sima Ghosh",  "client": "Futura Pvt Ltd","product": "Alpha", "unitsSold": 8,  "revenue": 9600,  "target": 65000},
+  {"id": 17, "date": "2025-06-24", "salesRep": "Rohan Singh", "client": "GreenGrocers", "product": "Beta",  "unitsSold": 5,  "revenue": 4000,  "target": 65000},
+  {"id": 18, "date": "2025-06-29", "salesRep": "Priya Sharma","client": "Hema Traders", "product": "Gamma", "unitsSold": 4,  "revenue": 6000,  "target": 65000},
+
+  {"id": 19, "date": "2025-07-01", "salesRep": "Amit Verma",  "client": "Indigo Imports","product": "Delta", "unitsSold": 18, "revenue": 7200,  "target": 70000},
+  {"id": 20, "date": "2025-07-07", "salesRep": "Sima Ghosh",  "client": "Jaya Logistics","product": "Epsilon","unitsSold": 12, "revenue": 7200,  "target": 70000},
+  {"id": 21, "date": "2025-07-12", "salesRep": "Rohan Singh", "client": "Acme Corp",    "product": "Alpha", "unitsSold": 10, "revenue": 12000, "target": 70000},
+  {"id": 22, "date": "2025-07-18", "salesRep": "Priya Sharma","client": "Brightside Ltd","product": "Beta", "unitsSold": 9,  "revenue": 7200,  "target": 70000},
+  {"id": 23, "date": "2025-07-22", "salesRep": "Amit Verma",  "client": "Cenvex",        "product": "Gamma", "unitsSold": 7,  "revenue": 10500, "target": 70000},
+  {"id": 24, "date": "2025-07-28", "salesRep": "Sima Ghosh",  "client": "Deltatech",    "product": "Delta", "unitsSold": 25, "revenue": 10000, "target": 70000},
+
+  {"id": 25, "date": "2025-08-03", "salesRep": "Rohan Singh", "client": "Echo Media",   "product": "Epsilon","unitsSold": 20, "revenue": 12000, "target": 75000},
+  {"id": 26, "date": "2025-08-09", "salesRep": "Priya Sharma","client": "Futura Pvt Ltd","product": "Alpha", "unitsSold": 12, "revenue": 14400, "target": 75000},
+  {"id": 27, "date": "2025-08-14", "salesRep": "Amit Verma",  "client": "GreenGrocers", "product": "Beta",  "unitsSold": 15, "revenue": 12000, "target": 75000},
+  {"id": 28, "date": "2025-08-19", "salesRep": "Sima Ghosh",  "client": "Hema Traders", "product": "Gamma", "unitsSold": 10, "revenue": 15000, "target": 75000},
+  {"id": 29, "date": "2025-08-23", "salesRep": "Rohan Singh", "client": "Indigo Imports","product": "Delta", "unitsSold": 30, "revenue": 12000, "target": 75000},
+  {"id": 30, "date": "2025-08-30", "salesRep": "Priya Sharma","client": "Jaya Logistics","product": "Epsilon","unitsSold": 25, "revenue": 15000, "target": 75000}
+]
